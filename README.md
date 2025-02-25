@@ -52,11 +52,6 @@ let appointments = try await ZermeloManager.shared.fetchSchedule(start: startTim
 
 ---
 
-## 🔍 Screenshots  
-*(Add screenshots of the app UI here, if available.)*
-
----
-
 ## 🏗 Project Structure
 
 - `ZermeloAuthView.swift` → Handles user authentication (manual & QR code).
@@ -81,7 +76,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 📬 Contact
-If you have questions, reach out via GitHub or email me at **your-email@example.com**.
+If you have questions, reach out via GitHub or email me at **sidddevcc@gmail.com**.
 ```
 
 ---
