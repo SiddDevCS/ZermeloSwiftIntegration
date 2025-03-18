@@ -1,26 +1,23 @@
-### **README.md**
-```md
-# ZermeloSwiftIntegration 🚀
+# ZermeloSwiftIntegration
 
 A Swift integration for **Zermelo API**, allowing users to authenticate, fetch their schedules, and manage their school timetable seamlessly. This project showcases how to interact with the Zermelo API using Swift and SwiftUI.
 
-## 📌 Features
-- 📡 **OAuth Authentication** with Zermelo API
-- 📅 **Fetch and display schedules** dynamically
-- 🔍 **QR Code Scanning** for quick authentication
-- 💾 **User session persistence** using `UserDefaults`
-- ✅ Clean and modular Swift codebase
+## Features
+- **OAuth Authentication** with Zermelo API
+- **Fetch and display schedules** dynamically
+- **QR Code Scanning** for quick authentication
+- **User session persistence** using `UserDefaults`
+- Clean and modular Swift codebase
 
 ---
 
-## 🛠 Installation
+## Installation
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Siddharth11sehgal/ZermeloSwiftIntegration.git
    cd ZermeloSwiftIntegration
-   ```
-2. **Open the project in Xcode** and build the app.
+
 
 ---
 
