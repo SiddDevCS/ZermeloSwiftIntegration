@@ -74,8 +74,3 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 If you have questions, reach out via GitHub or email me at **sidddevcc@gmail.com**.
-```
-
-   git commit -m "Added README"
-   git push origin main
-   ```
