@@ -76,17 +76,6 @@ This project is licensed under the MIT License.
 If you have questions, reach out via GitHub or email me at **sidddevcc@gmail.com**.
 ```
 
----
-
-### **Next Steps:**
-1. **Create the README file** in your project:  
-   ```bash
-   touch README.md
-   ```
-2. **Copy-paste the above content into `README.md`**.
-3. **Commit & push the file to GitHub**:  
-   ```bash
-   git add README.md
    git commit -m "Added README"
    git push origin main
    ```
